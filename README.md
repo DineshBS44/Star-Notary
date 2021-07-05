@@ -1,10 +1,10 @@
-# Star Notary
+# Star Notary - A Decentralized Application(DApp)
 
-A Tokenized Star Notary smart contract with the ERC-721 standar token STN(Star Notary) is deployed to the Rinkeby Public Test network.
+A Tokenized Star Notary smart contract with the ERC-721 standard token STN(Star Notary) is deployed to the Rinkeby Public Test network.
 
 The frontend hosted on the server allows anyone to create and own their star using a unique tokenId and also lookup the owned stars.
 
-When a star is created, a new STN token is added to the user's wallet which is an NFT(Non Fungible Token).
+When a star is created using the DApp, a new STN token is added to the user's wallet which is an NFT(Non Fungible Token).
 
 ## How is the ERC-721 token made?
 
